@@ -1,0 +1,93 @@
+<?xml version="1.0" standalone="no"?>
+<!-- Generator: Adobe Fireworks 10, Export SVG Extension by Aaron Beall (http://fireworks.abeall.com) . Version: 0.6.1  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg id="player.fw-Page%202" viewBox="0 0 480 480" style="background-color:#ffffff" version="1.1"
+	xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve"
+	x="0px" y="0px" width="480px" height="480px"
+>
+	<defs>
+	<style type="text/css"><![CDATA[
+		.btn {
+		/*fill: green;*/
+		pointer-events: all;
+		-webkit-transition: all 0.2s;
+		
+		}
+			.btn:hover {
+				stroke: #333;
+				stroke-width: 5;
+				fill: #195699;
+				cursor: pointer;
+				-webkit-transform: scale(1.1) rotate(10deg);
+				
+			}
+			use:hover {
+			-webkit-transform: scale(1.1) rotate(10deg);
+			}
+		]]></style>
+		<!-- Library -->
+		<symbol id="iconplay" overflow="visible">
+			<g id="Layer%2012">
+				<path d="M -26.1994 37.5221 L 25.4672 3.5221 L -26.1994 -30.4779 L -26.1994 37.5221 Z" fill="#000000"/>
+			</g>
+
+		</symbol>
+		<symbol id="btnouter" overflow="visible">
+			<g id="Layer%2013">
+				<path id="btn-menu2" d="M 140.835 -6.01 C 104.6897 -41.8583 54.9306 -64 0 -64 C -54.929 -64 -104.685 -41.8565 -140.83 -6.01 L -70.055 64.64 C -52.0129 46.9266 -27.2819 36 0 36 C 27.2838 36 52.0176 46.9244 70.06 64.64 L 140.835 -6.01 Z" fill="#dddddd"/>
+			</g>
+
+		</symbol>
+		<symbol id="iconnext" overflow="visible">
+			<g id="Layer%2014">
+				<path d="M -14 9 L 0 0 L -14 -9 L -14 9 Z" fill="#000000"/>
+				<path d="M -2 9 L 12 0 L -2 -9 L -2 9 Z" fill="#000000"/>
+				<rect x="10" y="-8" width="4" height="16" fill="#000000"/>
+			</g>
+
+		</symbol>
+		<symbol id="download" overflow="visible">
+			<g id="Layer%2015">
+				<path d="M -9 6.4375 L -9 11 L 9 11 L 9 6 " stroke="#000000" stroke-width="3" fill="none"/>
+				<path d="M -7.9245 -5.7235 L 1 7.6373 L 9.9245 -5.7235 L 5 -5.725 L 5 -12 L -3 -12 L -3 -5.725 L -7.9245 -5.7235 Z" fill="#000000"/>
+			</g>
+
+		</symbol>
+		<symbol id="iconlist" overflow="visible">
+			<g id="Layer%2016">
+				<path d="M -9.5 -11.7381 C -9.5 -12.8032 -8.7843 -13.6667 -7.9013 -13.6667 L 15.9013 -13.6667 C 16.7843 -13.6667 17.5 -12.8032 17.5 -11.7381 L 17.5 -9.5952 C 17.5 -8.5301 16.7843 -7.6667 15.9013 -7.6667 L -7.9013 -7.6667 C -8.7843 -7.6667 -9.5 -8.5301 -9.5 -9.5952 L -9.5 -11.7381 Z" fill="#000000"/>
+				<path d="M -9.5 7.2619 C -9.5 6.1968 -8.7843 5.3333 -7.9013 5.3333 L 15.9013 5.3333 C 16.7843 5.3333 17.5 6.1968 17.5 7.2619 L 17.5 9.4048 C 17.5 10.4699 16.7843 11.3333 15.9013 11.3333 L -7.9013 11.3333 C -8.7843 11.3333 -9.5 10.4699 -9.5 9.4048 L -9.5 7.2619 Z" fill="#000000"/>
+				<path d="M -9.5 -2.7381 C -9.5 -3.8032 -8.7843 -4.6667 -7.9013 -4.6667 L 15.9013 -4.6667 C 16.7843 -4.6667 17.5 -3.8032 17.5 -2.7381 L 17.5 -0.5952 C 17.5 0.4699 16.7843 1.3333 15.9013 1.3333 L -7.9013 1.3333 C -8.7843 1.3333 -9.5 0.4699 -9.5 -0.5952 L -9.5 -2.7381 Z" fill="#000000"/>
+				<g>
+					<path d="M -19.5 -12.5417 L -18.375 -13.6667 L -13.625 -13.6667 L -12.5 -12.5417 L -12.5 -8.7917 L -13.625 -7.6667 L -18.375 -7.6667 L -19.5 -8.7917 L -19.5 -12.5417 Z" fill="#000000"/>
+				</g>
+				<g>
+					<path d="M -19.5 6.4583 L -18.375 5.3333 L -13.625 5.3333 L -12.5 6.4583 L -12.5 10.2083 L -13.625 11.3333 L -18.375 11.3333 L -19.5 10.2083 L -19.5 6.4583 Z" fill="#000000"/>
+				</g>
+				<g>
+					<path d="M -19.5 -3.5417 L -18.375 -4.6667 L -13.625 -4.6667 L -12.5 -3.5417 L -12.5 0.2083 L -13.625 1.3333 L -18.375 1.3333 L -19.5 0.2083 L -19.5 -3.5417 Z" fill="#000000"/>
+				</g>
+			</g>
+
+		</symbol>
+		<!-- End Library -->
+
+	</defs>
+	<g id="Layer%201">
+		<path id="btn-menu" class="btn" d="M 380.335 96.99 C 344.1897 61.1417 294.4306 39 239.5 39 C 184.571 39 134.815 61.1435 98.67 96.99 L 169.445 167.64 C 187.487 149.9266 212.2181 139 239.5 139 C 266.7838 139 291.5176 149.9245 309.56 167.64 L 380.335 96.99 Z" fill="#dddddd"/>
+		<path id="btn-next" class="btn"  d="M 96.1523 100 C 60.2037 136.1883 38 186.0066 38 241.0025 C 38 295.9969 60.2055 345.8121 96.1523 382.0001 L 167 311.1409 C 149.2371 293.0774 138.2799 268.3169 138.2799 241.0025 C 138.2799 213.6863 149.2349 188.923 167 170.8592 L 96.1523 100 Z" fill="#dddddd"/>
+		<path id="btn-play" class="btn"  d="M 141.5 240.5 C 141.5 186.3754 185.3754 142.5 239.5 142.5 C 293.6246 142.5 337.5 186.3754 337.5 240.5 C 337.5 294.6246 293.6246 338.5 239.5 338.5 C 185.3754 338.5 141.5 294.6246 141.5 240.5 Z" fill="#cccccc"/>
+		<path id="btn-download" class="btn"  d="M 98.5 383.8477 C 134.6882 419.7963 184.5066 442 239.5025 442 C 294.4969 442 344.312 419.7945 380.5 383.8477 L 309.6408 313 C 291.5773 330.7629 266.8168 341.7202 239.5025 341.7202 C 212.1863 341.7202 187.423 330.7651 169.3592 313 L 98.5 383.8477 Z" fill="#dddddd"/>
+		<path id="btn-prev"  class="btn" d="M 382.8477 382.0001 C 418.7964 345.8118 441 295.9935 441 240.9975 C 441 186.0032 418.7945 136.188 382.8477 100 L 312 170.8592 C 329.7629 188.9227 340.7202 213.6832 340.7202 240.9975 C 340.7202 268.3138 329.7651 293.077 312 311.1409 L 382.8477 382.0001 Z" fill="#dddddd"/>
+		
+		<use id="icon-play" xlink:href="#iconplay" transform="matrix(1, 0, 0, 1, 249, 240)"/>		
+		<use id="btn-prev2" visibility="hidden" xlink:href="#btnouter" transform="matrix(0, -1, 1, 0, 104, 240)"/>
+		<use id="icon-prev" xlink:href="#iconnext" transform="matrix(-1, 0, 0, -1, 85, 240)"/>
+		<use id="btn-next2" visibility="hidden" xlink:href="#btnouter" transform="matrix(0, 1, -1, 0, 376, 240)"/>
+		<use id="icon-next" xlink:href="#iconnext" transform="matrix(1, 0, 0, 1, 395, 240)"/>
+		<use id="btn-download2" visibility="hidden" xlink:href="#btnouter" transform="matrix(-1, 0, 0, -1, 240, 376)"/>
+		<use id="icon-download" xlink:href="#download" transform="matrix(1, 0, 0, 1, 239, 399)"/>
+		<use id="btn-list" visibility="hidden" xlink:href="#btnouter" transform="matrix(1, 0, 0, 1, 240, 104)"/>
+		<use id="icon-list" xlink:href="#iconlist" transform="matrix(0.8108, 0, 0, 0.8108, 239.4054, 84.5405)"/>
+	</g>
+</svg>

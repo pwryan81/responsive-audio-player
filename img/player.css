@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.btn {
+	fill: blue;
+	pointer-events: all;
+}
+.btn:hover path {
+	fill: yellow;
+}
+g:hover {
+	fill: red;
+}
